@@ -1,0 +1,27 @@
+body{
+    background-color: #26355D;
+}
+li{
+    font-size: 1rem;
+}
+.poster{
+    width: 100%;
+    margin-top: 10px;
+    color: aliceblue;
+    font-family: "Rubik", sans-serif;
+}
+#cat{
+    border: 5px solid antiquewhite;
+}
+#dog{
+    border: 5px solid antiquewhite;
+}
+#fox{
+    border: 5px solid antiquewhite;
+}
+#lion{
+    border: 5px solid antiquewhite;
+}
+#owl{
+    border: 5px solid antiquewhite;
+}
